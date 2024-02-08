@@ -18,7 +18,7 @@ html {
 /* Start Landing */
 .landing {
     height: 117vh;
-    background-image: url("../task5-Gricklo/images/h1_hero.jpg.webp");
+    background-image: url("../images/h1_hero.jpg.webp");
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
